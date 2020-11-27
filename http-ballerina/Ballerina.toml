@@ -147,3 +147,4 @@ target = "java11"
     modules = ["http-tests"]
 
 pytest==5.3.2
+pytest==5.3.2
